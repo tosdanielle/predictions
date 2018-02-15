@@ -1,7 +1,7 @@
 # Supervised classification algorithm for spam prediction 
 
-Using machine learning techniques, develop a SPAM classifier using “SMS Spam Collection Dataset” dataset. The algorithm consist on the following steps: 
-- Load dataset
+Using machine learning techniques, develop a SPAM classifier using “SMS Spam Collection Dataset” dataset. The algorithm consists on the following steps: 
+- Loading Dataset 
 - Feature extraction
 - Classifier
 - Metric report
